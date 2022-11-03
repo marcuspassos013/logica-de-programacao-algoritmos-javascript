@@ -1,0 +1,77 @@
+html,
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    background-image: linear-gradient(#c56cf0, #5f27cd);
+}
+
+h1 {
+    color: deeppink;
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 {
+    padding-top: 25px;
+    text-align: center;
+    color: #FFF;
+    font-size: 30px;
+}
+
+p {
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    color: #FFF;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    border: none;
+    padding: 4% 4%;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, #6a386e, rgb(64, 33, 206));
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    padding: 3% 18%;
+    border-radius: 15px;
+}
+
+h3 {
+    display: block;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    color: deeppink;
+}
+
+#limpa-tela {
+    display: block;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, #6a386e, rgb(64, 33, 206));
+    border: none;
+    color: #FFF;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding: 3% 20%;
+    border-radius: 15px;
+}
